@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="40d1ecd4-f76d-4924-9946-8d70507d0cb8" name="Changes" comment="feat: add 16 question">
-      <change afterPath="$PROJECT_DIR$/src/Q25.java" afterDir="false" />
+    <list default="true" id="40d1ecd4-f76d-4924-9946-8d70507d0cb8" name="Changes" comment="feat: add 35 question">
+      <change afterPath="$PROJECT_DIR$/src/Q73.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -36,6 +36,7 @@
   "keyToString": {
     "Application.Q10.executor": "Run",
     "Application.Q16.executor": "Run",
+    "Application.Q73.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
@@ -50,7 +51,7 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Q16">
+  <component name="RunManager">
     <configuration name="Q10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Q10" />
       <module name="atvPedroo" />
@@ -89,7 +90,7 @@
       <updated>1707957910427</updated>
       <workItem from="1707957911504" duration="3070000" />
       <workItem from="1707961630646" duration="9000" />
-      <workItem from="1707961766475" duration="1934000" />
+      <workItem from="1707961766475" duration="3243000" />
     </task>
     <task id="LOCAL-00001" summary="feat: add 10 question">
       <option name="closed" value="true" />
@@ -107,7 +108,23 @@
       <option name="project" value="LOCAL" />
       <updated>1707962831486</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="feat: add 25 question">
+      <option name="closed" value="true" />
+      <created>1707963753284</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1707963753284</updated>
+    </task>
+    <task id="LOCAL-00004" summary="feat: add 35 question">
+      <option name="closed" value="true" />
+      <created>1707964523823</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1707964523823</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -116,6 +133,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="feat: add 10 question" />
     <MESSAGE value="feat: add 16 question" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat: add 16 question" />
+    <MESSAGE value="feat: add 25 question" />
+    <MESSAGE value="feat: add 35 question" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: add 35 question" />
   </component>
 </project>
